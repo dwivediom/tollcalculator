@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+#mapContianer{ 
+  margin: 30px;
+  border: 2px solid crimson;
+
+   
+    
+}

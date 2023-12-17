@@ -1,0 +1,7 @@
+#Map{ height: 180px;}
+.Route{ 
+
+-webkit-box-shadow:0px 0px 105px 45px rgba(46,98,255,0.9);
+-moz-box-shadow: 0px 0px 105px 45px rgba(46,98,255,0.9);
+box-shadow: 0px 0px 105px 45px rgba(46,98,255,0.9);
+}
