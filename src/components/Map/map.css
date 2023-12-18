@@ -5,3 +5,7 @@
 -moz-box-shadow: 0px 0px 105px 45px rgba(46,98,255,0.9);
 box-shadow: 0px 0px 105px 45px rgba(46,98,255,0.9);
 }
+
+.leaflet-container{ 
+    z-index: 0;
+}

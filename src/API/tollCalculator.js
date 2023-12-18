@@ -45,7 +45,7 @@
    console.log( await convertCoordinatesToPath(coordinates))
     
     const apiEndpoint = 'https://apis.tollguru.com/toll/v2/complete-polyline-from-mapping-service/#';
-    const apiKey = '3M2h8NdJb2mB9LdtdqLBq3B7PBNLM2LH';
+    const apiKey = 'm8QGBP2qrF7MRLQHbR8RttJFTNMDRTB9';
     const requestData = {
       mapProvider: 'here',
       path: await convertCoordinatesToPath(coordinates),
