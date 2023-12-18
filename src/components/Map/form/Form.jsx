@@ -4,7 +4,7 @@ import { DefaultSlider } from './DefaultSlider'
 
 const Form = () => {
   return (
-    <div className='items-center'>
+    <div className='items-center flex md:flex-row max-sm:flex-col lg:flex-row justify-center m-2'>
          <Autocomplate/>
          <div>
             <DefaultSlider/>
